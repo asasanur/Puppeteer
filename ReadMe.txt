@@ -1,0 +1,1 @@
+node getWord.js https://www.nytimes.com/games/wordle/index.html
